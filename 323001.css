@@ -1,0 +1,12 @@
+.box-big {
+    background:white;  
+}
+
+.big {
+    width:31%;
+    background-color: orange;
+    padding-top:31%;
+    border-radius:20px;
+    float: left;
+    margin :0 0 2% 2%;
+}
